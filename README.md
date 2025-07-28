@@ -15,7 +15,7 @@
 <div align="center">
 
 ### Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=react,nextjs,flask,spring" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,flask,spring,tailwind" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
