@@ -4,7 +4,7 @@
 </p>
 <p align="center">
   I build web systems end to end: database design, REST APIs, web apps and deployment.<br>
-  Currently working with <b>Next.js</b>, <b>FastAPI</b> and <b>NestJS</b>.
+  Currently working with <b>Next.js</b>, <b>FastAPI</b> and <b>SringBoot</b>.
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/benjags/"><img src="https://skillicons.dev/icons?i=linkedin" height="36" alt="LinkedIn"></a>
